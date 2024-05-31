@@ -1,0 +1,423 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/csci_493_student_000000_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$NounPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$NounPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ClassLecture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ClassLecture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbSees$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbSees$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbMoves$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbMoves$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbLikes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbLikes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerseInstance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerseInstance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$PrepPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$PrepPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ArticleThe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ArticleThe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbTouches$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbTouches$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$PrepFor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$PrepFor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Fragment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Fragment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiples3Or5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Multiples3Or5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$PrepPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$PrepPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ComplexNoun$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ComplexNoun$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ListNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$NounBoy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$NounBoy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ComplexNoun.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ComplexNoun.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiples3Or5$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Multiples3Or5$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ComplexVerb.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ComplexVerb.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3$ItemNotFoundError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3$ItemNotFoundError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ClassLecture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ClassLecture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par$UnitFuture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par$UnitFuture$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Actor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Actor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Examples.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Examples.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Strategy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Strategy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Strategy$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Strategy$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Strategy$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Strategy$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Strategy$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Strategy$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par$UnitFuture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par$UnitFuture.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par$ParOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par$ParOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Strategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Strategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$ParOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$ParOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Examples$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Examples$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Future.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Future.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Actor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Actor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Par.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Par.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parallelism/Nonblocking$Par$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parallelism/Nonblocking$Par$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Stream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Stream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Stream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Stream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/laziness/Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/laziness/Empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Turn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Turn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Coin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Coin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Machine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Machine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Candy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Candy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/RNG$Simple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/RNG$Simple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Coin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Coin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Input.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Input.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/RNG$Simple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/RNG$Simple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/RNG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/RNG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Machine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Machine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/RNG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/RNG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Candy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Candy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/state/Turn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/state/Turn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$Unsized.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$Unsized.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$$times$times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$$times$times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$Sized.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$Sized.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/SGen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/SGen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Prop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Prop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Status$Unfalsified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Status$Unfalsified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Status$Exhausted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Status$Exhausted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$Unsized$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$Unsized$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Status$Proven$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Status$Proven$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Status.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Status.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Prop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Prop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Status$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Status$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/exhaustive/Gen$Sized$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/exhaustive/Gen$Sized$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Gen$$times$times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Gen$$times$times$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Gen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Gen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$Proved$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$Proved$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$Passed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$Passed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/SGen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/SGen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$Falsified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$Falsified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Gen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Gen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/SGen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/SGen$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/testing/Prop$Falsified.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/testing/Prop$Falsified.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Reference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Reference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Reference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Reference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JNumber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JNumber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Parsers$ParserOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Parsers$ParserOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEBinaryExpression$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEBinaryExpression$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$Failure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$Failure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Location.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Location.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSONExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSONExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ParseError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ParseError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$RG1_B$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$RG1_B$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AETimes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AETimes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JNumber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JNumber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEIdentifier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEIdentifier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Failure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Failure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEBinaryExpression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEBinaryExpression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ParseError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ParseError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Parsers$ParserOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Parsers$ParserOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$ParseState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$ParseState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEIdentifier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEIdentifier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Slice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Slice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Sliceable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Sliceable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$Success$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$Success$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Slice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Slice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$Success.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$Success.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEExpressionList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEExpressionList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEFactor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEFactor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$RG1_Sequence.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$RG1_Sequence.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JArray$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$RG1_C$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$RG1_C$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$ParseState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$ParseState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$ParseState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$ParseState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$ParseState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$ParseState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$RG1_Sequence$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$RG1_Sequence$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Failure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Failure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Success$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Success$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Parsers$Laws$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Parsers$Laws$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Parsers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Parsers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEFactor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEFactor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/RG1_Instance$RG1_A$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/RG1_Instance$RG1_A$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSONExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSONExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Sliceable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Sliceable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Location$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Location$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$Result.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/ReferenceTypes$Failure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/ReferenceTypes$Failure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/JSON$JString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/JSON$JString$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/Parsers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/Parsers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/SliceableTypes$Success.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/SliceableTypes$Success.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEPlus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEPlus$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fpinscala/parsing/AEInstance$AEExpressionList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/fpinscala/parsing/AEInstance$AEExpressionList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BernoulliTrials.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/BernoulliTrials.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseLinkedList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ReverseLinkedList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Verse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Verse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ComplexVerb$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ComplexVerb$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$NounFlower$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$NounFlower$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ListNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BernoulliTrials$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/BernoulliTrials$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Verse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Verse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$NounPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$NounPhrase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3$TypeConversionError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3$TypeConversionError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerseItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerseItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SieveEratosthenes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/SieveEratosthenes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SieveEratosthenes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/SieveEratosthenes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3$MiscellaneousError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3$MiscellaneousError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$ArticleA$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$ArticleA$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Stanza$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Stanza$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Stanza.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Stanza.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseLinkedList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/ReverseLinkedList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$Fragment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$Fragment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment3$UndefinedSlopeError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment3$UndefinedSlopeError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$NounGirl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$NounGirl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$PrepWith$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$PrepWith$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Assignment4$VerbPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anthony/IntelliJ Projects/csci_493_students_23957316/target/scala-2.13/classes/Assignment4$VerbPhrase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
